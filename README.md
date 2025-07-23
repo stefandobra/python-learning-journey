@@ -1,70 +1,86 @@
 # 🧠 Python Programming Journey – mooc.fi 2025
 
-This repository contains my solutions and notes from the [mooc.fi Python 2025 course](https://programming-22.mooc.fi/), as part of my journey to becoming an AI automation engineer. Each part builds core skills needed for real-world automation and AI development.
+This repository documents my progress through the [mooc.fi Python 2025 course](https://programming-22.mooc.fi/), with a targeted focus on mastering Python for **AI automation and engineering roles**.
 
 ---
 
-## 🚀 Goal
+## 🎯 Career Goal
 
-To master Python fundamentals and build strong foundations for a career in AI and automation, with clean, maintainable, and well-documented code.
+To become a highly skilled AI automation developer, capable of building tools, bots, and scalable systems — with strong fundamentals in Python, data handling, and object-oriented design.
+
+GitHub is a live mirror of my discipline, learning, and technical progression.
 
 ---
 
 ## 📚 Course Structure & Progress
 
-| Part | Topics Covered | Status |
-|------|----------------|--------|
-| [Part 01](./part01) | Basics, Output, Arithmetic | ✅ Completed |
-| [Part 02](./part02) | Input, Conditionals, Repetition | ✅ Completed |
-| [Part 03](./part03) | Loops, Strings, Functions | ✅ Completed (23 July 2025) |
-| [Part 04](./part04) | Collections, More Functions | 🔜 In Progress |
-| Part 05+ | File I/O, OOP, Testing, Exceptions | ⏳ Upcoming |
+This course includes both the **Intro to Programming** and **Advanced Programming** sections. My current milestone target is to complete **Part 9**, which builds the foundation for real-world AI work.
+
+| Part | Topics | Status |
+|------|--------|--------|
+| [Part 01](./part01) | Basics, Input, Arithmetic, Conditionals | ✅ Completed |
+| [Part 02](./part02) | Syntax, Conditionals, Loops | ✅ Completed |
+| [Part 03](./part03) | Loops, Strings, Defining Functions | ✅ Completed (23 July 2025) |
+| [Part 04](./part04) | VSCode, Lists, Print Formatting | 🔜 In Progress |
+| [Part 05](./part05) | Dictionaries, Tuples, List Logic | ⏳ Pending |
+| [Part 06](./part06) | File I/O, Error Handling, Variables | ⏳ Pending |
+| [Part 07](./part07) | Modules, Random, JSON, Dates | ⏳ Pending |
+| [Part 08](./part08) | Classes, Methods, OOP Basics | ⏳ Pending |
+| [Part 09](./part09) | Objects, Encapsulation, Composition | ⏳ Pending |
+| Part 10–14 | OOP Hierarchies, Functional Programming, Pygame | 🚫 Skipping (for now) |
 
 ---
 
-## 🛠️ Tech & Tools
+## ✅ Why Stop at Part 9?
 
-- 🐍 Python 3.10+
-- 📝 VS Code / Google Colab
-- 🐙 Git & GitHub for version control
-- ✅ Docstrings + clean function design
-- 📂 Organised into folders by part
-
----
-
-## 💡 Highlights & Takeaways (So Far)
-
-- Written dozens of custom functions using real-world logic
-- Practised text manipulation for automation / NLP use cases
-- Built confidence using loops, conditionals, and clean modular code
-- Committed consistently with proper Git practices
+- Parts 1–9 include **everything needed** for:
+  - Automation scripts
+  - File/data processing
+  - Reusable class-based tools
+  - Real-world projects and job readiness
+- Parts 10–14 (advanced) focus on recursion, game dev, and niche topics — optional later
 
 ---
 
-## 🧪 Sample Mini Projects (Ongoing)
+## 🧪 Mini Projects & Real-World Demos
 
-- [ ] Booking System Simulation (for Glam Waxing)
-- [ ] Email Cleaner
-- [ ] Text Frame Generator
+These are inspired by course content, used to apply knowledge to real use cases:
 
----
-
-## 🧭 Next Steps
-
-- Start Part 04 – Lists, dictionaries, and reusable function patterns
-- Begin building applied AI mini-projects after Part 5
-- Continue documenting learning & insights here
+- [ ] Booking System Simulator
+- [ ] Email Cleaner Utility
+- [ ] File-Based Task Logger
+- [ ] API Wrapper Template (post-Part 6)
+- [ ] Voice Assistant Prototype (future)
 
 ---
 
-## 📅 Timeline
+## 🛠️ Tools & Workflow
 
-| Milestone | Date |
-|-----------|------|
-| Started Course | July 2025 |
-| Completed Part 03 | 23 July 2025 |
-| Target: Part 05 Complete | August 2025 |
-| Build AI Automation Portfolio Projects | Q3–Q4 2025 |
+- Python 3.10+  
+- Google Colab + VS Code + PhytonTutor
+- GitHub for version tracking  
+- ChatGPT tracking progress and tasks
+- Each part in its own folder (`part01`, `part02`, etc.)
+
+---
+
+## 🧭 Milestone Timeline
+
+| Milestone | Target |
+|-----------|--------|
+| Finish Part 04 | Late July 2025 |
+| Finish Part 06 (File Handling) | Early August 2025 |
+| Finish Part 09 (OOP Mastery) | End of August 2025 |
+| Start Automation Projects | September 2025 |
+| Begin Job Applications | 2026 |
+
+---
+
+## 📌 Notes
+
+
+- GitHub is used as a live reflection of discipline, structure, and readiness
+- Code is written for readability, testability, and long-term value
 
 ---
 
@@ -75,4 +91,3 @@ This repo tracks my coding discipline and progress toward that goal.
 I'm using GitHub as a public log of my commitment, growth, and applied skills.
 
 ---
-
