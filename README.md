@@ -70,7 +70,7 @@ To master Python fundamentals and build strong foundations for a career in AI an
 
 ## 🧑‍💻 About Me
 
-I'm [Your Name], working toward a six-figure career in AI automation in London.  
+I'm Stefan Dobra, working toward a six-figure career in AI automation in London.  
 This repo tracks my coding discipline and progress toward that goal.  
 I'm using GitHub as a public log of my commitment, growth, and applied skills.
 
