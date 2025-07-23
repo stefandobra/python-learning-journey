@@ -18,15 +18,15 @@ This course includes both the **Intro to Programming** and **Advanced Programmin
 
 | Part | Topics | Status |
 |------|--------|--------|
-| [Part 01](./part01) | Basics, Input, Arithmetic, Conditionals | ✅ Completed |
-| [Part 02](./part02) | Syntax, Conditionals, Loops | ✅ Completed |
-| [Part 03](./part03) | Loops, Strings, Defining Functions | ✅ Completed (23 July 2025) |
-| [Part 04](./part04) | VSCode, Lists, Print Formatting | 🔜 In Progress |
-| [Part 05](./part05) | Dictionaries, Tuples, List Logic | ⏳ Pending |
-| [Part 06](./part06) | File I/O, Error Handling, Variables | ⏳ Pending |
-| [Part 07](./part07) | Modules, Random, JSON, Dates | ⏳ Pending |
-| [Part 08](./part08) | Classes, Methods, OOP Basics | ⏳ Pending |
-| [Part 09](./part09) | Objects, Encapsulation, Composition | ⏳ Pending |
+| [Part 01](./part-01) | Basics, Input, Arithmetic, Conditionals | ✅ Completed |
+| [Part 02](./part-02) | Syntax, Conditionals, Loops | ✅ Completed |
+| [Part 03](./part-03) | Loops, Strings, Defining Functions | ✅ Completed (23 July 2025) |
+| [Part 04](./part-04) | VSCode, Lists, Print Formatting | 🔜 In Progress |
+| [Part 05](./part-05) | Dictionaries, Tuples, List Logic | ⏳ Pending |
+| [Part 06](./part-06) | File I/O, Error Handling, Variables | ⏳ Pending |
+| [Part 07](./part-07) | Modules, Random, JSON, Dates | ⏳ Pending |
+| [Part 08](./part-08) | Classes, Methods, OOP Basics | ⏳ Pending |
+| [Part 09](./part-09) | Objects, Encapsulation, Composition | ⏳ Pending |
 | Part 10–14 | OOP Hierarchies, Functional Programming, Pygame | 🚫 Skipping (for now) |
 
 ---
