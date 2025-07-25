@@ -18,15 +18,15 @@ This course includes both the **Intro to Programming** and **Advanced Programmin
 
 | Part | Topics | Status |
 |------|--------|--------|
-| [Part 01](./part-01) | Basics, Input, Arithmetic, Conditionals | ✅ Completed |
-| [Part 02](./part-02) | Syntax, Conditionals, Loops | ✅ Completed |
-| [Part 03](./part-03) | Loops, Strings, Defining Functions | ✅ Completed (23 July 2025) |
-| [Part 04](./part-04) | VSCode, Lists, Print Formatting | ✅ Completed (25 July 2025) |
-| [Part 05](./part-05) | Dictionaries, Tuples, List Logic | 🔜 In Progress |
-| [Part 06](./part-06) | File I/O, Error Handling, Variables | ⏳ Pending |
-| [Part 07](./part-07) | Modules, Random, JSON, Dates | ⏳ Pending |
-| [Part 08](./part-08) | Classes, Methods, OOP Basics | ⏳ Pending |
-| [Part 09](./part-09) | Objects, Encapsulation, Composition | ⏳ Pending |
+| [Part 01](./mooc-fi//part-01) | Basics, Input, Arithmetic, Conditionals | ✅ Completed |
+| [Part 02](./mooc-fi//part-02) | Syntax, Conditionals, Loops | ✅ Completed |
+| [Part 03](./mooc-fi//part-03) | Loops, Strings, Defining Functions | ✅ Completed (23 July 2025) |
+| [Part 04](./mooc-fi//part-04) | VSCode, Lists, Print Formatting | ✅ Completed (25 July 2025) |
+| [Part 05](./mooc-fi//part-05) | Dictionaries, Tuples, List Logic | 🔜 In Progress |
+| [Part 06](./mooc-fi//part-06) | File I/O, Error Handling, Variables | ⏳ Pending |
+| [Part 07](./mooc-fi//part-07) | Modules, Random, JSON, Dates | ⏳ Pending |
+| [Part 08](./mooc-fi//part-08) | Classes, Methods, OOP Basics | ⏳ Pending |
+| [Part 09](./mooc-fi//part-09) | Objects, Encapsulation, Composition | ⏳ Pending |
 | Part 10–14 | OOP Hierarchies, Functional Programming, Pygame | 🚫 Skipping (for now) |
 
 ---
