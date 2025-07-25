@@ -60,7 +60,7 @@ These are inspired by course content, used to apply knowledge to real use cases:
 - Google Colab + VS Code + PhytonTutor
 - GitHub for version tracking  
 - ChatGPT tracking progress and tasks
-- Each part in its own folder (`part01`, `part02`, etc.)
+- Each part in its own folder (`part-01`, `part-02`, etc.)
 
 ---
 
