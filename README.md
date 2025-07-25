@@ -21,8 +21,8 @@ This course includes both the **Intro to Programming** and **Advanced Programmin
 | [Part 01](./part-01) | Basics, Input, Arithmetic, Conditionals | ✅ Completed |
 | [Part 02](./part-02) | Syntax, Conditionals, Loops | ✅ Completed |
 | [Part 03](./part-03) | Loops, Strings, Defining Functions | ✅ Completed (23 July 2025) |
-| [Part 04](./part-04) | VSCode, Lists, Print Formatting | 🔜 In Progress |
-| [Part 05](./part-05) | Dictionaries, Tuples, List Logic | ⏳ Pending |
+| [Part 04](./part-04) | VSCode, Lists, Print Formatting | ✅ Completed (25 July 2025) |
+| [Part 05](./part-05) | Dictionaries, Tuples, List Logic | 🔜 In Progress |
 | [Part 06](./part-06) | File I/O, Error Handling, Variables | ⏳ Pending |
 | [Part 07](./part-07) | Modules, Random, JSON, Dates | ⏳ Pending |
 | [Part 08](./part-08) | Classes, Methods, OOP Basics | ⏳ Pending |
@@ -68,7 +68,7 @@ These are inspired by course content, used to apply knowledge to real use cases:
 
 | Milestone | Target |
 |-----------|--------|
-| Finish Part 04 | Late July 2025 |
+| Finish Part 04 | ✅ Completed (25 July 2025) |
 | Finish Part 06 (File Handling) | Early August 2025 |
 | Finish Part 09 (OOP Mastery) | End of August 2025 |
 | Start Automation Projects | September 2025 |
