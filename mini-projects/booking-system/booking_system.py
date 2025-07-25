@@ -18,9 +18,9 @@ def view_bookings(bookings: list):
 def cancel_booking(bookings: list):
     view_bookings(bookings)
     index = int(input("Please select booking to cancel: "))
-
+    print()
     if index > len(bookings):
-        print("Invalid selection")
+        print("Invalid selection\n")
         return
     
     bookings.pop(index - 1)
@@ -28,8 +28,9 @@ def cancel_booking(bookings: list):
 def run_menu():
     bookings = []
     while True:
-        print("1. Add Booking\n2. View Bookings\n3. Cancel Booking\n0. Exit")
-        choice = input("Please choose option: \n")
+        print("1. Add Booking\n2. View Bookings\n3. Cancel Booking\n0. Exit\n")
+        choice = input("Please choose option: ")
+        print()
         if choice == "1":
             add_booking(bookings)
         elif choice == "2":
@@ -39,7 +40,8 @@ def run_menu():
         elif choice == "0":
             break
         else:
-            print("Invalid selection")
+            print("Invalid selection\n")
+    print("Goodbye!")
 
 run_menu()
 
