@@ -1,6 +1,6 @@
 # 🧠 Python Programming Journey – mooc.fi 2025
 
-This repository documents my progress through the [mooc.fi Python 2025 course](https://programming-22.mooc.fi/), with a targeted focus on mastering Python for **AI automation and engineering roles**.
+This repository documents my progress through the [mooc.fi Python 2025 course](https://programming-22.mooc.fi/) and self-directed mini-projects, with a targeted focus on mastering Python for **AI automation and engineering roles**.
 
 ---
 
@@ -28,6 +28,17 @@ This course includes both the **Intro to Programming** and **Advanced Programmin
 | [Part 08](./mooc-fi//part-08) | Classes, Methods, OOP Basics | ⏳ Pending |
 | [Part 09](./mooc-fi//part-09) | Objects, Encapsulation, Composition | ⏳ Pending |
 | Part 10–14 | OOP Hierarchies, Functional Programming, Pygame | 🚫 Skipping (for now) |
+
+---
+
+## 🛠️ Mini Projects
+
+Alongside the course, I'm building real mini-projects to apply what I’ve learned.
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Booking System](./mini-projects/booking-system) | Terminal-based booking system using lists, loops, and functions | ✅ Started |
+| (more coming...) | Email cleaner, file logger, etc. | 🔜 Planned |
 
 ---
 
@@ -60,7 +71,8 @@ These are inspired by course content, used to apply knowledge to real use cases:
 - Google Colab + VS Code + PhytonTutor
 - GitHub for version tracking  
 - ChatGPT tracking progress and tasks
-- Each part in its own folder (`part-01`, `part-02`, etc.)
+- Each part is inside the `mooc-fi/` folder (`mooc-fi/part-01`, etc.)
+- Mini-projects are in the `mini-projects/` folder, built independently to apply learning
 
 ---
 
