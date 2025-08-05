@@ -22,8 +22,8 @@ This course includes both the **Intro to Programming** and **Advanced Programmin
 | [Part 02](./mooc-fi//part-02) | Syntax, Conditionals, Loops | ✅ Completed |
 | [Part 03](./mooc-fi//part-03) | Loops, Strings, Defining Functions | ✅ Completed (23 July 2025) |
 | [Part 04](./mooc-fi//part-04) | VSCode, Lists, Print Formatting | ✅ Completed (25 July 2025) |
-| [Part 05](./mooc-fi//part-05) | Dictionaries, Tuples, List Logic | 🔜 In Progress |
-| [Part 06](./mooc-fi//part-06) | File I/O, Error Handling, Variables | ⏳ Pending |
+| [Part 05](./mooc-fi//part-05) | Dictionaries, Tuples, List Logic | ✅ Completed (5 August 2025) |
+| [Part 06](./mooc-fi//part-06) | File I/O, Error Handling, Variables | 🔜 In Progress |
 | [Part 07](./mooc-fi//part-07) | Modules, Random, JSON, Dates | ⏳ Pending |
 | [Part 08](./mooc-fi//part-08) | Classes, Methods, OOP Basics | ⏳ Pending |
 | [Part 09](./mooc-fi//part-09) | Objects, Encapsulation, Composition | ⏳ Pending |
